@@ -1,5 +1,7 @@
 #!/bin/bash
+
 clear
+
 case $1 in 
 	-e) if (( $# != 3 )) 
 		then
